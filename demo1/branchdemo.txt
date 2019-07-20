@@ -1,2 +1,6 @@
 first branch demo
+<<<<<<< HEAD
 master
+=======
+x branch
+>>>>>>> x
